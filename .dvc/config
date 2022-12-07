@@ -1,5 +1,6 @@
 [core]
     remote = dvc-remote
 ['remote "dvc-remote"']
-    url = azure://azuredvcdemocontainername
-    connection_string = fAccountName=azuredvcdemoaccount;SharedAccessSignature=sp=rwdl&st=2022-12-06T18:53:45Z&se=2022-12-13T02:53:45Z&skoid=c6e9ae50-bb15-4b7a-bbe7-638c06b26123&sktid=8b6b8a34-ff47-4c2e-b1a0-0689194b589b&skt=2022-12-06T18:53:45Z&ske=2022-12-13T02:53:45Z&sks=b&skv=2021-06-08&spr=https&sv=2021-06-08&sr=c&sig=17H3iqiILvRQTooqi7v2UgvgN9Nyr5T81Gm5EZbWv1c%3D
+    url = azure://azuredvcdemocontainername/
+    account_name = azuredvcdemoaccount
+    connection_string = AccountName=azuredvcdemoaccount;SharedAccessSignature=sp=rwdl&st=2022-12-07T14:22:13Z&se=2022-12-13T22:22:13Z&skoid=c6e9ae50-bb15-4b7a-bbe7-638c06b26123&sktid=8b6b8a34-ff47-4c2e-b1a0-0689194b589b&skt=2022-12-07T14:22:13Z&ske=2022-12-13T22:22:13Z&sks=b&skv=2021-06-08&spr=https&sv=2021-06-08&sr=c&sig=0IXgFd5iHRPs8hssersf0YvJG5JB51QbWQc2ODr1KiU%3D
